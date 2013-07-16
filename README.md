@@ -127,6 +127,8 @@ Grindstone
 
 TrueCrypt
 
+**[GNU utilities for Win32](http://unxutils.sourceforge.net/)** - ports of common GNU utilities to native Win32 (ex.: tail :P)
+
 
 ## Virtualization ##
 
