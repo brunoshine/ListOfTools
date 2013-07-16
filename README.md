@@ -13,11 +13,11 @@ This is my list of daily used tools and resources. Want to contribute? please le
 
 **[Cloud9 IDE](https://c9.io/)** - Code anywhere anytime with this online editor. (free/paid)
 
-Notepad++
+**[Notepad++](http://notepad-plus-plus.org/)** - Source code editor and Notepad replacement that supports several languages. 
 
-MarkdownPad
+**[MarkdownPad](http://markdownpad.com/)** - full-featured Markdown editor for Windows.
 
-LinqPad
+**[LinqPad](http://www.linqpad.net/)** -  query databases in LINQ.
 
 ## Frameworks ##
 
