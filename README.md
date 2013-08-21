@@ -85,6 +85,8 @@ OrchardCMS
 
 **[SQLCop](http://sqlcop.lessthandot.com/)** - highlight potential problems in your SQL Server database
 
+**[ConsolR](http://appharbor.github.io/ConsolR/)** - ConsolR enables you to execute C# code againt a running .NET 4.0 web application's app domain through a browser.
+
 ## CSS ##
 
 CSS3 Generator
