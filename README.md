@@ -67,6 +67,24 @@ FxCop
 
 OrchardCMS
 
+**[Oz-Code](http://www.oz-code.com/)** - debuggin extensions
+
+**[Glimpse](http://getglimpse.com/)** - Glimpse shows execution timings, server configuration, request data and more, all in browser, with no changes to your application code. 
+
+**[Hawkeye](http://hawkeye.codeplex.com/)** - Hawkeye is the only .Net tool that allows you to view, edit, analyze and invoke (almost) any object from a .Net application. Whenever you try to debug, test, change or understand an application, Hawkeye can help.
+
+**[JSLint for Visual Studio 2010](http://jslint4vs2010.codeplex.com/)** - A Visual Studio 2010 & 2012 Extension which provides JavaScript code analysis using JSLint.
+
+**[NCrunch](http://www.ncrunch.net/) ** - Automated concurrent testing tool for Visual Studio.
+
+**[Sando](http://sando.codeplex.com/)** - Sando: A Fast Local Code Search Engine with Open APIs
+
+**[SQLCop](http://sqlcop.lessthandot.com/)** - highlight potential problems in your SQL Server database
+
+**[SQL Search](http://www.red-gate.com/products/sql-development/sql-search/)** - Find fragments of SQL text within stored procedures, functions, views and more
+
+**[SQLCop](http://sqlcop.lessthandot.com/)** - highlight potential problems in your SQL Server database
+
 ## CSS ##
 
 CSS3 Generator
@@ -129,6 +147,7 @@ TrueCrypt
 
 **[GNU utilities for Win32](http://unxutils.sourceforge.net/)** - ports of common GNU utilities to native Win32 (ex.: tail :P)
 
+**[Ninite](http://ninite.com/)** - Install and Update All Your Programs at Once
 
 ## Virtualization ##
 
