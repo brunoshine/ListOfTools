@@ -33,10 +33,10 @@ This is my list of daily used tools and resources. Want to contribute? please le
 
 ## Source Control ##
 
-GitHub
+**[GitHub](https://github.com)**
 
-Git
-
+**[Git](http://git-scm.com/)**
+m
 ## RegEx ##
 
 **[RegExr](http://gskinner.com/RegExr/)** - Online regex editor (free)
@@ -65,10 +65,8 @@ NCover
 
 FxCop
 
-OrchardCMS
-
 **[Oz-Code](http://www.oz-code.com/)** - debuggin extensions
-
+nit
 **[Glimpse](http://getglimpse.com/)** - Glimpse shows execution timings, server configuration, request data and more, all in browser, with no changes to your application code. 
 
 **[Hawkeye](http://hawkeye.codeplex.com/)** - Hawkeye is the only .Net tool that allows you to view, edit, analyze and invoke (almost) any object from a .Net application. Whenever you try to debug, test, change or understand an application, Hawkeye can help.
@@ -86,6 +84,18 @@ OrchardCMS
 **[SQLCop](http://sqlcop.lessthandot.com/)** - highlight potential problems in your SQL Server database
 
 **[ConsolR](http://appharbor.github.io/ConsolR/)** - ConsolR enables you to execute C# code againt a running .NET 4.0 web application's app domain through a browser.
+
+## Automation and Testing ##
+
+PhantonJS
+
+Moq
+
+nUnit
+
+## Content Management Systems ##
+
+OrchardCMS
 
 ## CSS ##
 
@@ -117,6 +127,8 @@ KnockoutJs
 
 AngularJs
 
+FuelUX
+
 ## Mobile ##
 
 Apache Cordova
@@ -135,6 +147,8 @@ Visual Studio Team Foundation Server
 
 **[ConEmu](https://code.google.com/p/conemu-maximus5/)** - Windows console emulator with tabs (free) 
 
+**[Chocolatey](http://chocolatey.org/)** - Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind.
+
 Fiddler
 
 Synergy
@@ -150,6 +164,8 @@ TrueCrypt
 **[GNU utilities for Win32](http://unxutils.sourceforge.net/)** - ports of common GNU utilities to native Win32 (ex.: tail :P)
 
 **[Ninite](http://ninite.com/)** - Install and Update All Your Programs at Once
+
+Sysinternals 
 
 ## Virtualization ##
 
