@@ -87,7 +87,7 @@ nit
 
 ## Automation and Testing ##
 
-PhantonJS
+PhantomJS
 
 Moq
 
