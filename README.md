@@ -69,6 +69,8 @@ Log4Net
 
 MiniProfiler
 
+Elmah
+
 **[Oz-Code](http://www.oz-code.com/)** - debuggin extensions
 
 **[Glimpse](http://getglimpse.com/)** - Glimpse shows execution timings, server configuration, request data and more, all in browser, with no changes to your application code. 
