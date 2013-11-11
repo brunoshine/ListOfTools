@@ -65,8 +65,12 @@ NCover
 
 FxCop
 
+Log4Net
+
+MiniProfiler
+
 **[Oz-Code](http://www.oz-code.com/)** - debuggin extensions
-nit
+
 **[Glimpse](http://getglimpse.com/)** - Glimpse shows execution timings, server configuration, request data and more, all in browser, with no changes to your application code. 
 
 **[Hawkeye](http://hawkeye.codeplex.com/)** - Hawkeye is the only .Net tool that allows you to view, edit, analyze and invoke (almost) any object from a .Net application. Whenever you try to debug, test, change or understand an application, Hawkeye can help.
