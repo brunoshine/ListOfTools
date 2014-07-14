@@ -135,7 +135,24 @@ AngularJs
 
 FuelUX
 
+DataTables
+
+## Charts ##
+
+**[Charts.js](http://www.chartjs.org/)**
+
+**[D3](http://d3js.org/)** 
+
+**[Morris.js](http://morrisjs.github.io/morris.js/)** 
+
+**[Google Charts](https://developers.google.com/chart/)** 
+
+
 ## Mobile ##
+
+Xamarin
+
+GenyMotion
 
 Apache Cordova
 
